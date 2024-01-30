@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HiAmanAgrawal
-- 👀 I’m interested in Full software and website development.
-- 🌱 I’m currently learning basic programming languages like - cpp , c , python  , front-end web development and tech stacks.
-- 💞️ I’m looking to collaborate on Open source and Start ups.
-- 📫 To reach me Click -https://linktr.ee/hiamanagrawal and Choose platform you are comfortable with.
+- 👀 I have covered Front-end web development, UX/UI design.
+- 🌱 I’m currently doing problem-solving in languages like C++, C, Python and learning Back-End web development and tech stack like React.
+- 💡 Interested in full-stack development.
+- 💞️ I’m looking to collaborate on Open source and Startups.
+- 📫 To reach me, click [here](https://linktr.ee/hiamanagrawal) and choose the platform you are comfortable with.
