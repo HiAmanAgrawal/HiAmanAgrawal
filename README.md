@@ -1,4 +1,7 @@
-![How you doing?](https://github.com/HiAmanAgrawal/HiAmanAgrawal/blob/main/How_you_doing.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/HiAmanAgrawal/HiAmanAgrawal/blob/main/How_you_doing.gif?raw=true" alt="How you doing?" width=300px />
+</p>
+
 - 👋 Hi, I’m @HiAmanAgrawal
 - 👀 I have covered Front-end web development with React js, UX/UI design.
 - 🌱 I’m currently doing problem-solving in languages like C++, C, Python and learning Back-End web development.
