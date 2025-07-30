@@ -8,6 +8,3 @@
 - 💡 Interested in full-stack development.
 - 💞️ I’m looking to collaborate on Open source and Startups.
 - 📫 To reach me, click [here](https://linktr.ee/hiamanagrawal) and choose the platform you are comfortable with.
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=hiamanagrawal&theme=dark&hide_border=false)
