@@ -7,4 +7,4 @@
 - 🌱 I’m currently doing problem-solving in languages like C++, Python advancing skills with cyber security and AI integeration.
 - 💡 Interested in full-stack development.
 - 💞️ I’m looking to collaborate on Open source and Startups.
-- 📫 To reach me, click [here](https://linktr.ee/hiamanagrawal) and choose the platform you are comfortable with.
+- 📫 To reach me, Visit [aman-ag.tech](https://www.aman-ag.tech/) and choose the platform you are comfortable with.
