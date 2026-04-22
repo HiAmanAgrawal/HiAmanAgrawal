@@ -2,9 +2,33 @@
   <img src="https://github.com/HiAmanAgrawal/HiAmanAgrawal/blob/main/How_you_doing.gif?raw=true" alt="How you doing?" width=300px />
 </p>
 
-- 👋 Hi, I’m @HiAmanAgrawal
-- 👀 I have covered Full-stack development with MERN stack and also covered best practices in UI/UX designs.
-- 🌱 I’m currently doing problem-solving in languages like C++, Python advancing skills with cyber security and AI integeration.
-- 💡 Interested in full-stack development.
-- 💞️ I’m looking to collaborate on Open source and Startups.
-- 📫 To reach me, Visit [aman-ag.tech](https://www.aman-ag.tech/) and choose the platform you are comfortable with.
+<br/>
+
+**`😎 who I am`**
+
+Hey, I'm Aman Agrawal 👋
+
+<br/>
+
+**`👾 what I do`**
+- Build AI agents that plan, click, decide, and get things done — no hand-holding
+- Ship full-stack products that are actually usable, not just demos
+- Turn ideas into working things, fast
+
+<br/>
+
+**`⚡ what I'm into`**
+
+AI agents · LLM workflows · automation · Machine Learning · hackathons
+
+<br/>
+
+**`🤝 looking to collaborate on`**
+
+Open source · cool startups · anything that ships
+
+<br/>
+
+**`📬 reach me`**
+
+Everything's at **[aman-ag.tech](https://aman-ag.tech)**
